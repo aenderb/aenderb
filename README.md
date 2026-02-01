@@ -14,11 +14,5 @@ Fullstack Developer | React & Node.js
 - MongoDB
 - AWS
 
-### Featured Projects
-⭐ SaaS Dashboard  
-⭐ Kanban Board  
-⭐ Auth API  
-⭐ Rest API
-
 
 
